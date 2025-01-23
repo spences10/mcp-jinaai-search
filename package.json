@@ -1,6 +1,6 @@
 {
 	"name": "mcp-jinaai-search",
-	"version": "0.0.4",
+	"version": "0.0.0",
 	"description": "MCP server for JinaAI search",
 	"type": "module",
 	"main": "dist/index.js",
