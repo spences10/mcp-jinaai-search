@@ -5,6 +5,10 @@ API with LLMs. This server provides efficient and comprehensive web
 search capabilities, optimised for retrieving clean, LLM-friendly
 content from the web.
 
+<a href="https://glama.ai/mcp/servers/u6603w196t">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/u6603w196t/badge" />
+</a>
+
 ## Features
 
 - 🔍 Advanced web search through Jina.ai Search API
