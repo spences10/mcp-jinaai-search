@@ -1,5 +1,6 @@
 # mcp-jinaai-search
 
+[![smithery badge](https://smithery.ai/badge/@spences10/mcp-jinaai-search)](https://smithery.ai/protocols/@spences10/mcp-jinaai-search-fetch)
 A Model Context Protocol (MCP) server for integrating Jina.ai's Search
 API with LLMs. This server provides efficient and comprehensive web
 search capabilities, optimised for retrieving clean, LLM-friendly
@@ -26,6 +27,14 @@ content from the web.
 
 This server requires configuration through your MCP client. Here are
 examples for different environments:
+
+### Installing via Smithery
+
+To install JinaAI Search for Claude Desktop automatically via [Smithery](https://smithery.ai/protocols/@spences10/mcp-jinaai-search-fetch):
+
+```bash
+npx -y @smithery/cli install @spences10/mcp-jinaai-search --client claude
+```
 
 ### Cline Configuration
 
@@ -161,3 +170,4 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 - Built on the
   [Model Context Protocol](https://github.com/modelcontextprotocol)
 - Powered by [Jina.ai Search API](https://jina.ai)
+
